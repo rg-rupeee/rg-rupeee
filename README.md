@@ -1,5 +1,3 @@
-## Connect with me
-
 # Hi there, I'm Rupesh Garhwal a.k.a [rg-rupeee!](https://github.com/rg-rupeee) 👋
 
 <a href="https://twitter.com/GarhwalRupesh" target="_blank">
@@ -15,8 +13,9 @@
 <br />
 <br />
 
+---
 
-## I'm a Node.js developer and a Competitive Programmer!!
+## About me
 
 <h3>Hi, I'm Rupesh Garhwal, a passionate self-taught <strong> Node.js developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 <br />
@@ -31,7 +30,7 @@
 
 ---
 
-<h3>Tech Stack</h3>
+## Tech Stack
 <p align="left">
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="40" height="40"/>  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> 
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" /><img src="https://img.icons8.com/color/40/000000/python.png" alt="react" width="40" height="40"/> <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> 
