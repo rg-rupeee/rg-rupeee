@@ -1,10 +1,62 @@
-- 👋 Hi, I’m @rg-rupeee
-- 👀 I’m interested in Web Development and Computer Science Stuffs
-- 🌱 I’m currently learning:  Node.js - Express.js - Mongo.db
-- 💞️ I’m looking to collaborate on:  Node.js - Express.js - Mongo.db
-- 📫 How to reach me: rupeshgarhwal3920@gmail.com
+### Connect with me:
 
-<!---
-rg-rupeee/rg-rupeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://twitter.com/GarhwalRupesh" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:rupeshgarhwal3920@gmail.com?hl=en" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/rupesh03/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+</a>
+
+
+<br />
+<br />
+<img alt="Rupesh Hero Image" align="right" src="./heroIMG.png" width="400px"/>
+
+<br />
+<br />
+
+
+
+
+## I'm a Node.js developer and a Competitive Programmer!!
+
+<h3>Hi, I'm Rupesh Garhwal, a passionate self-taught <strong> Node.js developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
+
+- 🔭 I’m currently working on a private repository.<br/>
+- 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong> and <strong>React.js</strong>
+- 🤝 I’m looking to collaborate on <strong>Node.js</strong>-<strong>Express.js</strong>-<strong>MongoDB</strong>-<strong>MySQL</strong> Projects
+- 🥅 2020 Goals: Get internship and Contribute to Open Source Projects
+- ⚡ Fun fact: I love to draw and play Cricket.
+- 📭 Reach out to me at : rupeshGarhwal3920@gmail.com<br/>
+
+
+
+<br />
+<br />
+
+---
+
+<h3>Tech Stack</h3>
+<p align="left">
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  alt="cplusplus" width="40" height="40"/>  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" /><img src="https://img.icons8.com/color/40/000000/python.png" alt="react" width="40" height="40"/> <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
+
+ </p>
+
+
+<br />
+<br />
+
+---
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Rupesh Garhwal Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rg-rupeee&count_private=true&theme=radical" />
+
+</details>
