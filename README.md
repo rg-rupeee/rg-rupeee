@@ -15,15 +15,13 @@
 
 ---
 
-## About me
-
 <h3>Hi, I'm Rupesh Garhwal, a passionate self-taught <strong> Node.js developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 <br />
 - 🔭 I’m currently working on a private repository.<br/>
-- 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong> and <strong>React.js</strong>
-- 🤝 I’m looking to collaborate on <strong>Node.js</strong>-<strong>Express.js</strong>-<strong>MongoDB</strong>-<strong>MySQL</strong> Projects
-- 🥅 2020 Goals: Get internship and Contribute to Open Source Projects
-- ⚡ Fun fact: I love to draw and play Cricket.
+- 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong> and <strong>React.js</strong> <br/>
+- 🤝 I’m looking to collaborate on <strong>Node.js</strong>-<strong>Express.js</strong>-<strong>MongoDB</strong>-<strong>MySQL</strong> Projects<br/>
+- 🥅 2020 Goals: Get internship and Contribute to Open Source Projects<br/>
+- ⚡ Fun fact: I love to draw and play Cricket.<br/>
 - 📭 Reach out to me at : rupeshGarhwal3920@gmail.com<br/>
 
 <br />
