@@ -21,7 +21,6 @@
 - 🔭 I’m currently working on a private repository.<br/>
 - 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong> and <strong>React.js</strong> <br/>
 - 🤝 I’m looking to collaborate on <strong>Node.js</strong>-<strong>Express.js</strong>-<strong>MongoDB</strong>-<strong>MySQL</strong> Projects<br/>
-- 🥅 2020 Goals: Get internship and Contribute to Open Source Projects<br/>
 - ⚡ Fun fact: I love to draw and play Cricket.<br/>
 - - 📫 How to reach me: <a href="mailto:rupeshgarhwal3920@gmail.com"> rupeshgarhwal3920@gmail.com </a> <br/>
 
