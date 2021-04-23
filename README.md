@@ -13,7 +13,9 @@
 <br />
 <br />
 
----
+<img alt="Rupesh Hero Image" align="right" src="./heroIMG.png" width="400px"/>
+
+<br />
 
 <h3>Hi, I'm Rupesh Garhwal, a passionate self-taught <strong> Node.js developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 <br />
