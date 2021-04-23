@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning <strong>React.js</strong> and <strong>Data Structures and Algorithms</strong> <br/>
 - 🤝 I’m looking to collaborate on <strong>Node.js</strong>-<strong>Express.js</strong>-<strong>MongoDB</strong>-<strong>MySQL</strong> Projects<br/>
 - ⚡ Fun fact: I love to draw and play Cricket.<br/>
-- - 📫 How to reach me: <a href="mailto:rupeshgarhwal3920@gmail.com"> rupeshgarhwal3920@gmail.com </a> <br/>
+-  📫 How to reach me: <a href="mailto:rupeshgarhwal3920@gmail.com"> rupeshgarhwal3920@gmail.com </a> <br/>
 
 <br />
 
