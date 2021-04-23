@@ -1,4 +1,6 @@
-### Connect with me:
+## Connect with me
+
+# Hi there, I'm Rupesh Garhwal a.k.a [rg-rupeee!](https://github.com/rg-rupeee) 👋
 
 <a href="https://twitter.com/GarhwalRupesh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -10,21 +12,14 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 
-
 <br />
 <br />
-<img alt="Rupesh Hero Image" align="right" src="./heroIMG.png" width="400px"/>
-
-<br />
-<br />
-
-
 
 
 ## I'm a Node.js developer and a Competitive Programmer!!
 
 <h3>Hi, I'm Rupesh Garhwal, a passionate self-taught <strong> Node.js developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
-
+<br />
 - 🔭 I’m currently working on a private repository.<br/>
 - 🌱 I’m currently learning <strong>Data Structures and Algorithms</strong> and <strong>React.js</strong>
 - 🤝 I’m looking to collaborate on <strong>Node.js</strong>-<strong>Express.js</strong>-<strong>MongoDB</strong>-<strong>MySQL</strong> Projects
@@ -32,9 +27,6 @@
 - ⚡ Fun fact: I love to draw and play Cricket.
 - 📭 Reach out to me at : rupeshGarhwal3920@gmail.com<br/>
 
-
-
-<br />
 <br />
 
 ---
@@ -47,12 +39,9 @@
 
  </p>
 
-
-<br />
 <br />
 
 ---
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
