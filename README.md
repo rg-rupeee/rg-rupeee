@@ -11,7 +11,6 @@
 </a>
 
 <br />
-<br />
 
 <img alt="Rupesh Hero Image" align="right" src="./heroIMG.png" width="400px"/>
 
