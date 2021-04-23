@@ -23,7 +23,7 @@
 - 🤝 I’m looking to collaborate on <strong>Node.js</strong>-<strong>Express.js</strong>-<strong>MongoDB</strong>-<strong>MySQL</strong> Projects<br/>
 - 🥅 2020 Goals: Get internship and Contribute to Open Source Projects<br/>
 - ⚡ Fun fact: I love to draw and play Cricket.<br/>
-- 📭 Reach out to me at : rupeshgarhwal3920@gmail.com <br/>
+- - 📫 How to reach me: rupeshgarhwal3920@gmail.com
 
 <br />
 
