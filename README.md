@@ -38,8 +38,5 @@
 ---
 
 
-  ## :zap: GitHub Stats
-
-  <img align="left" alt="Rupesh Garhwal Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rg-rupeee&count_private=true&theme=radical" />
-
+  
 
