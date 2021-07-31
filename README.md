@@ -36,7 +36,7 @@
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitlovanshi&show_icons=true&locale=en&layout=compact" alt="sumitlovanshi" /></p>
 
-</br>
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rg-rupeee&" alt="rupesh" /></p>
   
