@@ -1,4 +1,4 @@
-# Hi there, I'm Rupesh Garhwal a.k.a [rg-rupeee!](https://github.com/rg-rupeee) 👋
+# Hi there, I'm Rupesh Garhwal a.k.a [rupeee!](https://github.com/rg-rupeee) 👋
 
 <a href="https://twitter.com/GarhwalRupesh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
