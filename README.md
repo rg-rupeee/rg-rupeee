@@ -1,4 +1,4 @@
-# Hi there, I'm Rupesh Garhwal a.k.a [rupeee!](https://rupesh-garhwal.vercel.app) 👋
+# Hi there, I'm Rupesh Garhwal a.k.a [rupeee!](https://rupesh.vercel.app) 👋
 
 <a href="https://twitter.com/GarhwalRupesh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -14,7 +14,7 @@
 <img alt="Rupesh Hero Image" align="right" src="./heroIMG.png" width="400px"/>
 
 <h3>Hi, I'm Rupesh Garhwal, a passionate <strong>developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
-My Porfolio Webiste :- https://rupesh-garhwal.vercel.app
+My Porfolio Webiste :- https://rupesh.vercel.app
 <br />
 - 🔭 I’m currently practicing <strong>competitive programming</strong> and working on a private repository.<br/>
 - 🌱 I’m currently learning <strong>React.js</strong> and <strong>Data Structures and Algorithms</strong> <br/>
