@@ -1,8 +1,5 @@
 # Hi there, I'm Rupesh Garhwal a.k.a [rupeee!](https://rupesh.vercel.app) 👋
 
-<a href="https://rupesh.vercel.app" target="_blank">
-<img src=https://img.shields.io/badge/PORTFOLIO-%23CC0000.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/rupesh03" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
