@@ -11,7 +11,7 @@
 </a>
 
 
-<img alt="Rupesh Hero Image" align="right" src="./heroIMG.png" width="400px"/>
+<img alt="Rupesh Hero Image" align="right" src="https://res.cloudinary.com/dhrefvlrn/image/upload/v1697345106/MISC/qu4hacfucymx1hr4ndmo.webp" width="400px"/>
 
 <h3>Hi, I'm Rupesh Garhwal, a passionate <strong>developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
 My Porfolio Webiste :- https://rupesh.vercel.app
