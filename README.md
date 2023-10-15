@@ -16,7 +16,9 @@
 <img alt="Rupesh Hero Image" align="right" src="https://res.cloudinary.com/dhrefvlrn/image/upload/v1697345106/MISC/qu4hacfucymx1hr4ndmo.webp" width="400px"/>
 
 <h3>Hi, I'm Rupesh Garhwal, a <strong>experienced backend developer</strong>.</h3>
-My Porfolio Webiste :- https://rupesh.vercel.app
+<a href="https://rupesh.vercel.app" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-rg--rupeee-blue alt=rupesh_garhwal_portfolio style="margin-bottom: 5px;" />
+</a>
 <br />
 - 💻 Contributing to software development at <strong>Bajaj Finserv Health</strong> as an Associate Software Developer, focused on enhancing healthcare solutions.<br/>
 - 🔭 Passionate about <strong>data structures and algorithms</strong>, I thrive on tackling complex engineering challenges. <br/>
