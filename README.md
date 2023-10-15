@@ -39,14 +39,14 @@ My Porfolio Webiste :- https://rupesh.vercel.app
  </p>
 
 ---
-<p>
+<p align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rg-rupeee&" alt="rupesh" />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rg-rupeee&&show_icons=true&count_private=true" alt="rupesh garhwal" />
 </p>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rg-rupeee&show_icons=true&locale=en&layout=compact" alt="rupesh garhwal" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rg-rupeee&show_icons=true&locale=en&layout=compact" alt="rupesh garhwal" /></p>
 
 ---
   
