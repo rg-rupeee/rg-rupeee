@@ -16,14 +16,15 @@
 
 <img alt="Rupesh Hero Image" align="right" src="https://res.cloudinary.com/dhrefvlrn/image/upload/v1697345106/MISC/qu4hacfucymx1hr4ndmo.webp" width="400px"/>
 
-<h3>Hi, I'm Rupesh Garhwal, a passionate <strong>developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h3>
+<h3>Hi, I'm Rupesh Garhwal, a <strong>experienced backend developer</strong>.</h3>
 My Porfolio Webiste :- https://rupesh.vercel.app
 <br />
-- 🔭 I’m currently practicing <strong>competitive programming</strong> and working on a private repository.<br/>
-- 🌱 I’m currently learning <strong>React.js</strong> and <strong>Data Structures and Algorithms</strong> <br/>
-- 🤝 I’m looking to collaborate on <strong>Node.js</strong>-<strong>Express.js</strong>-<strong>MongoDB</strong>-<strong>MySQL</strong> Projects<br/>
-- ⚡ Fun fact: I love to draw and play cricket.<br/>
--  📫 How to reach me: <a href="mailto:rupeshgarhwal3920@gmail.com"> rupeshgarhwal3920@gmail.com </a> <br/>
+- 💻 Contributing to software development at <strong>Bajaj Finserv Health</strong> as an Associate Software Developer, focused on enhancing healthcare solutions.<br/>
+- 🔭 Passionate about <strong>data structures and algorithms</strong>, I thrive on tackling complex engineering challenges. <br/>
+- 🌱 My professional toolkit includes Node.js, Express.js, MongoDB, TypeScript, JavaScript, SQL, Redis, Azure Pipelines, and Docker. I've also explored C++, JAVA, React.js, AWS, and Azure services, expanding my technical horizons. 
+- 🤝 I'm enthusiastic about embracing new technologies and collaborating with fellow professionals to drive innovation and growth. <br/>
+- ⚡ Fun fact: In my free time, drawing, cricket, table tennis, and music are passionately enjoyed by me.<br/>
+- 📫 How to reach me: <a href="mailto:rupeshgarhwal3920@gmail.com"> rupeshgarhwal3920@gmail.com </a> <br/>
 
 <br />
 
@@ -38,10 +39,15 @@ My Porfolio Webiste :- https://rupesh.vercel.app
  </p>
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rg-rupeee&show_icons=true&locale=en&layout=compact" alt="rupesh garhwal" /></p>
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rg-rupeee&show_icons=true&locale=en&layout=compact" alt="rupesh garhwal" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rg-rupeee&&show_icons=true&count_private=true" alt="rupesh garhwal" />
+</p>
 
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rg-rupeee&" alt="rupesh" /></p>
-  
 
+---
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rg-rupeee&label=Profile%20views&color=0e75b6&style=flat" alt="rg-rupeee" /> </p>
