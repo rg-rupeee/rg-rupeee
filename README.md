@@ -16,7 +16,6 @@
 <img alt="Rupesh Hero Image" align="right" src="https://res.cloudinary.com/dhrefvlrn/image/upload/v1697345106/MISC/qu4hacfucymx1hr4ndmo.webp" width="400px"/>
 
 <h3>Hi, I'm Rupesh Garhwal, a <strong>experienced backend developer</strong>.</h3>
-<br />
 - 💻 Contributing to software development at <strong>Bajaj Finserv Health</strong> as an Associate Software Developer, focused on enhancing healthcare solutions.<br/>
 - 🔭 Passionate about <strong>data structures and algorithms</strong>, I thrive on tackling complex engineering challenges. <br/>
 - 🌱 My professional toolkit includes Node.js, Express.js, MongoDB, TypeScript, JavaScript, SQL, Redis, Azure Pipelines, and Docker. I've also explored C++, JAVA, React.js, AWS, and Azure services, expanding my technical horizons. 
