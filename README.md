@@ -1,14 +1,17 @@
 # Hi there, I'm Rupesh Garhwal a.k.a [rupeee!](https://rupesh.vercel.app) 👋
 
-<a href="https://twitter.com/GarhwalRupesh" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> 
-<a href="mailto:rupeshgarhwal3920@gmail.com?hl=en" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/rupesh03/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:rupeshgarhwal3920@gmail.com?hl=en" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/GarhwalRupesh" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.instagram.com/rupeee_itsme" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23D62976.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
 
 
 <img alt="Rupesh Hero Image" align="right" src="https://res.cloudinary.com/dhrefvlrn/image/upload/v1697345106/MISC/qu4hacfucymx1hr4ndmo.webp" width="400px"/>
