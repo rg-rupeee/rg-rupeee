@@ -28,8 +28,6 @@
 
 ## 📊 My Github Stats
 <p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rg-rupeee&" alt="rupesh" />
- <br/> <br/>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rg-rupeee&&show_icons=true&count_private=true" alt="rupesh garhwal" />
 </p>
 
